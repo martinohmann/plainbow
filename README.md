@@ -1,6 +1,6 @@
 # Plainbow
 
-> Pretty, minimal and fast rainbowish ZSH prompt
+> Fast rainbowish ZSH prompt
 
 <img src="screenshot.png" width="864">
 
