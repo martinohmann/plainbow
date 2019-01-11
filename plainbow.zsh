@@ -131,9 +131,6 @@ prompt_plainbow_preprompt_render() {
 
 	local symbol_color="%(?.green.red)"
 
-    # always start with one space
-	preprompt+=" "
-
 	# show virtual env
 	preprompt+="%(12V.%F{242}%12v%f .)"
 
